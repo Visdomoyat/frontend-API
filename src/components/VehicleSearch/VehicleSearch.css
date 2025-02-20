@@ -1,0 +1,21 @@
+.container {
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    font-size: 12px;
+   
+    text-align: center;
+    justify-content: center;
+
+}
+.container h2 {
+    font-size: 20px;
+}
+
+.card-panel input {
+    color: black;
+    font-size: 12px;
+}
+.card-panel {
+    color: black;
+}
